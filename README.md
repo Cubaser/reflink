@@ -15,7 +15,7 @@ RefLink — это API-сервис для реферальной системы
 
 ## Как начать работу с проектом?
 
-Клонируйте репозиторий:
+### 1.Клонируйте репозиторий:
 ```bash
 git clone git@github.com:Cubaser/reflink.git
 cd reflink
